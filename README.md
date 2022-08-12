@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhoraiOS
 - 👀 I’m interested in ... iOS Development
-- 🌱 I’m currently learning Swift,Swift UI
+- 🌱 I’m currently learning Swift UI
 - 💞️ I’m looking to collaborate on Freelance 
 - 📫 How to reach me ... Zhora.Babakhanyan.iOS@Gmail.com
 - 🌍 I'm Speak ... English,Русский,հայերեն  
